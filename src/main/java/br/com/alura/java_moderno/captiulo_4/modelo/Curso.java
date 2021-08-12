@@ -1,4 +1,4 @@
-package br.com.alura.java_8.captiulo_4.modelo;
+package br.com.alura.java_moderno.captiulo_4.modelo;
 
 public class Curso {
 	private String nome;

@@ -1,10 +1,10 @@
-package br.com.alura.java_8.captiulo_4;
+package br.com.alura.java_moderno.captiulo_4;
 
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 
-import br.com.alura.java_8.captiulo_4.modelo.Curso;
+import br.com.alura.java_moderno.captiulo_4.modelo.Curso;
 
 public class ExemploCursos {
 	public static void main(String[] args) {

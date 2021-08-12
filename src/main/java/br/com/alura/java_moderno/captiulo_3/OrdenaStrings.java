@@ -1,4 +1,4 @@
-package br.com.alura.java_8.captiulo_3;
+package br.com.alura.java_moderno.captiulo_3;
 
 import java.util.ArrayList;
 import java.util.Comparator;

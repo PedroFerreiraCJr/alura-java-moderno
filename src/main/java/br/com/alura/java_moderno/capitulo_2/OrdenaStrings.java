@@ -1,4 +1,4 @@
-package br.com.alura.java_8.capitulo_2;
+package br.com.alura.java_moderno.capitulo_2;
 
 import java.util.ArrayList;
 import java.util.List;

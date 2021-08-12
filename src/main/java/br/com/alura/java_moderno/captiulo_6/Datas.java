@@ -1,4 +1,4 @@
-package br.com.alura.java_8.captiulo_6;
+package br.com.alura.java_moderno.captiulo_6;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
